@@ -2,7 +2,7 @@
 Folder 'Italy' is the data repository for the work 'Are Interventions in the COVID-19 Outbreak Really Important? A Global Sensitivity Approach', by Xuefei Lu and Emanuele Borgonovo, 2020.
 
 # Uncertainty in OR Epidemiological Modeling: A Global Sensitivity Approach
-Folder 'Italy - EJOR' is the data repository for the work 'Uncertainty in OR Epidemiological Modeling: A Global Sensitivity Approach', by Xuefei Lu and Emanuele Borgonovo, 2021.
+Folder 'Italy - V2' is the data repository for the work 'Uncertainty in OR Epidemiological Modeling: A Global Sensitivity Approach', by Xuefei Lu and Emanuele Borgonovo, 2021.
 
 * We collect data for Italy, from Italy's Department of Civil Protection publicly available repository https://github.com/pcm-dpc/COVID-19; for Spain, Germany and the U.S. from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU CSSE COVID-19 Data) at https://github.com/CSSEGISandData/COVID-19.
 
